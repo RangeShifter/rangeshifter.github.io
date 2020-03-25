@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tops on The RangeShifter platform</title>
+    <link>https://rangeshifter.github.io/top/</link>
+    <description>Recent content in Tops on The RangeShifter platform</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    
+	<atom:link href="https://rangeshifter.github.io/top/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://rangeshifter.github.io/top/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rangeshifter.github.io/top/about/</guid>
+      <description>About RangeShifter This website introduces the eco-evolutionary modelling platform ‘RangeShifter’ (Bocedi et al. 2014). RangeShifter is an individual-based model that integrates complex population dynamics and dispersal behavior, includes plastic and evolutionary processes and simulates scenarios on spatially explicit landscapes. The software provides functionality for a wide variety of modelling applications ranging from applied questions, where it can be parameterized for real landscapes and species to compare alternative potential management interventions, to purely theoretical studies of species’ eco-evolutionary dynamics and responses to different environmental pressures.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rangeshifter.github.io/top/rangeshiftergui/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rangeshifter.github.io/top/rangeshiftergui/</guid>
+      <description>The RangeShifter GUI The RangeShifter platform was first published in Bocedi et al. (2014). The software is coded in C++ and packaged as a freely available Windows GUI. The graphical user interface is particularly useful for initial model exploration and for demonstration and teaching purposes. For more complex or computationally demanding simulations, it can also be run in Batch mode.
+RangeShifter v1.0 is accompanied by extensive documentation. For getting acquainted with the software, we recommend to first read the manual to understand the conceptual underpinnings of RangeShifter, and then run the tutorials offered in the manual.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rangeshifter.github.io/top/rangeshiftr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rangeshifter.github.io/top/rangeshiftr/</guid>
+      <description>The RangeshiftR package We here introduce the new RangeshiftR package, which makes RangeShifter available from within R. The R package makes it especially easy to run more complex simulations, it allows more coherent workflows and easier reproducability as well as integration with other Rpackages and plotting functions.
+Please note that the RangeshiftR package is not yet released and only available as beta version upon request. The official release is planned for May 2020.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rangeshifter.github.io/top/tutorials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rangeshifter.github.io/top/tutorials/</guid>
+      <description>Tutorials Both the RangeShifter GUI and the RangeshiftR package come with extensive documentation and tutorials. We also offer regular workshop on using the software, which we will also advertise on this website.
+The tutorials lead you step by step through the example applications described in Bocedi et al. (2014):
+ Tutorial 1: range expansions and long-distance dispersal Tutorial 2: patch connectivity using different dispersal and settlement rules Tutorial 3: evolution of dispersal strategies during range shifting  Data for running the tutorials can be downloaded here.</description>
+    </item>
+    
+  </channel>
+</rss>
