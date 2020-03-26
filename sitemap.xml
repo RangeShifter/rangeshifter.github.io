@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/2020/03/25/welcome-to-rs-site/</loc>
+    <lastmod>2020-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/top/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/top/rangeshiftergui/</loc>
+  </url>
+  
+  <url>
+    <loc>/top/rangeshiftr/</loc>
+  </url>
+  
+  <url>
+    <loc>/top/tutorials/</loc>
+  </url>
+  
+  <url>
+    <loc>/top/tutorials/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/top/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
