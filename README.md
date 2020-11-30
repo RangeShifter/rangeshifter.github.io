@@ -5,8 +5,8 @@ Bocedi, G., S.C.F. Palmer, G. Pe’er, R.K. Heikkinen, Y.G. Matsinos, K. Watts, 
 
 Contact details of the RangeShifter/RangeshiftR team:
 
-- Greta Bocedi, University of Aberdeen, greta.bocedi@abdn.ac.uk
-- Anne-Kathleen Malchow, Humboldt-University Berlin, anne-kathleen.malchow@geo.hu-berlin.de
-- Steve Palmer, University of Aberdeen, s.palmer@abdn.ac.uk
-- Justin Travis, University of Aberdeen, justin.travis@abdn.ac.uk
-- Damaris Zurell, Humboldt-University Berlin, damaris.zurell@hu-berlin.de
+- Greta Bocedi, University of Aberdeen, greta.bocedi [at] abdn.ac.uk
+- Anne-Kathleen Malchow, Humboldt-University Berlin, malchow [at] uni-potsdam.de
+- Steve Palmer, University of Aberdeen, s.palmer [at] abdn.ac.uk
+- Justin Travis, University of Aberdeen, justin.travis [at] abdn.ac.uk
+- Damaris Zurell, Humboldt-University Berlin, damaris.zurell [at] uni-potsdam.de
