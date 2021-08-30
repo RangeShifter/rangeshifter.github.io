@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects using RangeShifter on RangeShifter</title>
+    <link>https://rangeshifter.github.io/projects/</link>
+    <description>Recent content in Projects using RangeShifter on RangeShifter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="https://rangeshifter.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project BIOPIC</title>
+      <link>https://rangeshifter.github.io/projects/biopic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rangeshifter.github.io/projects/biopic/</guid>
+      <description>Projects using RangeShifter: BIOPIC - Disentangling the effects of demography, dispersal and biotic interactions on population and community response to global change Understanding the interplay between different drivers of biodiversity change is vital for making robust predictions to novel environments.</description>
+    </item>
+    
+  </channel>
+</rss>
