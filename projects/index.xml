@@ -5,11 +5,7 @@
     <link>https://rangeshifter.github.io/projects/</link>
     <description>Recent content in Projects using RangeShifter on RangeShifter</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    
-	<atom:link href="https://rangeshifter.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-gb</language><atom:link href="https://rangeshifter.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project BIOPIC</title>
       <link>https://rangeshifter.github.io/projects/biopic/</link>
@@ -17,6 +13,15 @@
       
       <guid>https://rangeshifter.github.io/projects/biopic/</guid>
       <description>Projects using RangeShifter: BIOPIC - Disentangling the effects of demography, dispersal and biotic interactions on population and community response to global change Understanding the interplay between different drivers of biodiversity change is vital for making robust predictions to novel environments.</description>
+    </item>
+    
+    <item>
+      <title>Project Centre for Ecological Genetics</title>
+      <link>https://rangeshifter.github.io/projects/ecogen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rangeshifter.github.io/projects/ecogen/</guid>
+      <description>Projects using RangeShifter: The missing link: unraveling the role of genetic variation of beneficial arthropods in agro-ecosystems Insects are vital components of most terrestrial ecosystems.</description>
     </item>
     
   </channel>
