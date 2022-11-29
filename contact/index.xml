@@ -5,6 +5,10 @@
     <link>https://rangeshifter.github.io/contact/</link>
     <description>Recent content in The RangeShifter team on RangeShifter</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language><atom:link href="https://rangeshifter.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language>
+    
+	<atom:link href="https://rangeshifter.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
