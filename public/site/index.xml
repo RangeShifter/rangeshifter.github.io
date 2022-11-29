@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sites on RangeShifter</title>
+    <link>https://rangeshifter.github.io/site/</link>
+    <description>Recent content in Sites on RangeShifter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://rangeshifter.github.io/site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RangeShifter: an eco-evolutionary modelling platform</title>
+      <link>https://rangeshifter.github.io/site/about/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rangeshifter.github.io/site/about/</guid>
+      <description>As anthropogenic environmental changes accelerate and threaten species’ persistence and associated ecosystem services, major tasks for scientists are to predict biological responses to different and interacting pressures, and to design effective management strategies.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://rangeshifter.github.io/site/references/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rangeshifter.github.io/site/references/</guid>
+      <description>Here, we feature research papers and other scientific publications using the RangeShifter platform.</description>
+    </item>
+    
+    <item>
+      <title>The RangeShifter team</title>
+      <link>https://rangeshifter.github.io/site/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rangeshifter.github.io/site/contact/</guid>
+      <description>The RangeShifter team consists of partners from University of Aberdeen and the University of Potsdam</description>
+    </item>
+    
+  </channel>
+</rss>
