@@ -6,11 +6,7 @@
     <description>Recent content in Sites on RangeShifter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://rangeshifter.github.io/site/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://rangeshifter.github.io/site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RangeShifter: an eco-evolutionary modelling platform</title>
       <link>https://rangeshifter.github.io/site/about/</link>
