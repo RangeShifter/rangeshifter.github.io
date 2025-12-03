@@ -4,29 +4,22 @@
     <title>Software options on RangeShifter</title>
     <link>https://rangeshifter.github.io/software/</link>
     <description>Recent content in Software options on RangeShifter</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
-    
-	<atom:link href="https://rangeshifter.github.io/software/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://rangeshifter.github.io/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RangeShifter 2.0</title>
       <link>https://rangeshifter.github.io/software/rangeshifter2.0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://rangeshifter.github.io/software/rangeshifter2.0/</guid>
-      <description>The RangeShifter platform was first published in Bocedi et al. (2014) and new functionality was added in Bocedi et al.</description>
+      <description>&lt;p&gt;The RangeShifter platform was first published in Bocedi et al. (2014) and new functionality was added in Bocedi et al. (2021). The software is coded in C++ and packaged as a freely available &lt;a href=&#34;https://github.com/RangeShifter/RangeShifter-software-and-documentation&#34;&gt;Windows GUI&lt;/a&gt;. The graphical user interface is particularly useful for initial model exploration and for demonstration and teaching purposes. For more complex or computationally demanding simulations, it can also be run in Batch mode.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>RangeShiftR</title>
       <link>https://rangeshifter.github.io/software/rangeshiftr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://rangeshifter.github.io/software/rangeshiftr/</guid>
-      <description>We here introduce the new RangeshiftR package, which makes RangeShifter 2.</description>
+      <description>&lt;p&gt;We here introduce the new RangeshiftR package, which makes RangeShifter 2.0 available from within R (Malchow et al. 2021). The R package makes it especially easy to run more complex simulations, it allows more coherent workflows and easier reproducability as well as integration with other R packages and plotting functions.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

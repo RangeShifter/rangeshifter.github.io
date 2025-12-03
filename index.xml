@@ -4,102 +4,79 @@
     <title>RangeShifter</title>
     <link>https://rangeshifter.github.io/</link>
     <description>Recent content on RangeShifter</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://rangeshifter.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://rangeshifter.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RangeShifter: an eco-evolutionary modelling platform</title>
       <link>https://rangeshifter.github.io/site/about/</link>
       <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://rangeshifter.github.io/site/about/</guid>
-      <description>As anthropogenic environmental changes accelerate and threaten species’ persistence and associated ecosystem services, major tasks for scientists are to predict biological responses to different and interacting pressures, and to design effective management strategies.</description>
+      <description>&lt;p&gt;As anthropogenic environmental changes accelerate and threaten species’ persistence and associated ecosystem services, major tasks for scientists are to predict biological responses to different and interacting pressures, and to design effective management strategies. Process-based models that explicitly integrate the different processes underpinning the responses of complex biological systems are now increasingly called for and provide opportunities (and challenges) to rapidly move forward in this endeavour (Urban et al. 2016). The RangeShifter software (Bocedi et al. 2014a, 2021) is a state-of-the-art eco-evolutionary modelling platform that is becoming increasingly used worldwide for both theoretical and applied purposes.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>RangeShiftR workshop at IBS 2022</title>
       <link>https://rangeshifter.github.io/blog/post-2/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://rangeshifter.github.io/blog/post-2/</guid>
-      <description>We&amp;rsquo;ve been picked to host a RangeShiftR workshop at the IBS 2022 in Vancouver!</description>
+      <description>&lt;p&gt;We&amp;rsquo;ve been picked to host a RangeShiftR workshop at the IBS 2022 in Vancouver! Obviously, the IBS biennial meeting was planned for 2021 but was postponed due to Covid-19 restrictions and concerns. But Vancouver is definetely worth the wait. In the meantime, we will host an IBS online workshop over the coming year. So stay tuned!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>First RangeShiftR workshop - Berlin 2019</title>
       <link>https://rangeshifter.github.io/blog/post-1/</link>
       <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://rangeshifter.github.io/blog/post-1/</guid>
-      <description>We are proud and exhausted after finishing our first RangeShiftR workshop in Berlin today.</description>
+      <description>&lt;p&gt;We are proud and exhausted after finishing our first RangeShiftR workshop in Berlin today. This was the first real-life test of our R package. We are very grateful to the participants to help us finding all the bugs and for giving useful suggestions for improvements. Four projects were developed over the last three days:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Parallel Range Shifts</title>
       <link>https://rangeshifter.github.io/projects/parallel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://rangeshifter.github.io/projects/parallel/</guid>
-      <description>Projects using RangeShifter: Evolution and plasticity of &amp;ldquo;arrive and survive&amp;rdquo; phenotypes driving parallel range shifts in the wild Many species are undergoing contemporary range shifts to higher latitudes and elevations, representing one of the most dramatic biotic responses to climate change.</description>
+      <description>&lt;h4 id=&#34;projects-using-rangeshifter&#34;&gt;Projects using RangeShifter:&lt;/h4&gt;&#xA;&lt;h3 id=&#34;evolution-and-plasticity-of-arrive-and-survive-phenotypes-driving-parallel-range-shifts-in-the-wild&#34;&gt;Evolution and plasticity of &amp;ldquo;arrive and survive&amp;rdquo; phenotypes driving parallel range shifts in the wild&lt;/h3&gt;&#xA;&lt;p&gt;Many species are undergoing contemporary range shifts to higher latitudes and elevations, representing one of the most dramatic biotic responses to climate change. We now know that range shifts involve not only ecological processes, but also rapid evolutionary change, reflecting: niche shifts and niche expansion, increases in dispersal, and altered patterns of neutral genetic variation. However, the mechanisms and relative importance of each of these evolutionary shifts are poorly understood, limiting our ability to predict range shifts and estimate their potential impact on high latitude or high elevation communities.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Project BIOPIC</title>
       <link>https://rangeshifter.github.io/projects/biopic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://rangeshifter.github.io/projects/biopic/</guid>
-      <description>Projects using RangeShifter: BIOPIC - Disentangling the effects of demography, dispersal and biotic interactions on population and community response to global change Understanding the interplay between different drivers of biodiversity change is vital for making robust predictions to novel environments.</description>
+      <description>&lt;h4 id=&#34;projects-using-rangeshifter&#34;&gt;Projects using RangeShifter:&lt;/h4&gt;&#xA;&lt;h3 id=&#34;biopic---disentangling-the-effects-of-demography-dispersal-and-biotic-interactions-on-population-and-community-response-to-global-change&#34;&gt;BIOPIC - Disentangling the effects of demography, dispersal and biotic interactions on population and community response to global change&lt;/h3&gt;&#xA;&lt;p&gt;Understanding the interplay between different drivers of biodiversity change is vital for making robust predictions to novel environments. In BIOPIC, we aim to disentangle the complex roles of demography, dispersal and biotic interactions in shaping species niches, and assess their effects on population and community response to global change. A large part of this is further developing workflows for fitting dynamic population models like RangeShifter to large numbers of species and increasing reliability of biodiversity predictions.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Project Centre for Ecological Genetics</title>
       <link>https://rangeshifter.github.io/projects/ecogen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://rangeshifter.github.io/projects/ecogen/</guid>
-      <description>Projects using RangeShifter: The missing link: unraveling the role of genetic variation of beneficial arthropods in agro-ecosystems Insects are vital components of most terrestrial ecosystems.</description>
+      <description>&lt;h4 id=&#34;projects-using-rangeshifter&#34;&gt;Projects using RangeShifter:&lt;/h4&gt;&#xA;&lt;h3 id=&#34;the-missing-link-unraveling-the-role-of-genetic-variation-of-beneficial-arthropods-in-agro-ecosystems&#34;&gt;The missing link: unraveling the role of genetic variation of beneficial arthropods in agro-ecosystems&lt;/h3&gt;&#xA;&lt;p&gt;Insects are vital components of most terrestrial ecosystems. We are currently experiencing large population declines in insects due to anthropogenic causes, such as intensified land use, habitat loss and fragmentation, but we know very little about the implications for genetic diversity. Loss of genetic diversity can amplify population extinction and reduce the diversity and crucial ecosystem services and functions that insects perform. This project investigates the population genetic consequences of the dramatic declines observed in insect diversity and abundance, and the link between population size, genetic diversity, and the ability of insects to perform their natural important ecological roles.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Publications</title>
       <link>https://rangeshifter.github.io/site/references/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://rangeshifter.github.io/site/references/</guid>
-      <description>Here, we feature research papers and other scientific publications using the RangeShifter platform.</description>
+      <description>&lt;p&gt;Here, we feature research papers and other scientific publications using the RangeShifter platform.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>RangeShifter 2.0</title>
       <link>https://rangeshifter.github.io/software/rangeshifter2.0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://rangeshifter.github.io/software/rangeshifter2.0/</guid>
-      <description>The RangeShifter platform was first published in Bocedi et al. (2014) and new functionality was added in Bocedi et al.</description>
+      <description>&lt;p&gt;The RangeShifter platform was first published in Bocedi et al. (2014) and new functionality was added in Bocedi et al. (2021). The software is coded in C++ and packaged as a freely available &lt;a href=&#34;https://github.com/RangeShifter/RangeShifter-software-and-documentation&#34;&gt;Windows GUI&lt;/a&gt;. The graphical user interface is particularly useful for initial model exploration and for demonstration and teaching purposes. For more complex or computationally demanding simulations, it can also be run in Batch mode.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>RangeShiftR</title>
       <link>https://rangeshifter.github.io/software/rangeshiftr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://rangeshifter.github.io/software/rangeshiftr/</guid>
-      <description>We here introduce the new RangeshiftR package, which makes RangeShifter 2.</description>
+      <description>&lt;p&gt;We here introduce the new RangeshiftR package, which makes RangeShifter 2.0 available from within R (Malchow et al. 2021). The R package makes it especially easy to run more complex simulations, it allows more coherent workflows and easier reproducability as well as integration with other R packages and plotting functions.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The RangeShifter team</title>
       <link>https://rangeshifter.github.io/site/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://rangeshifter.github.io/site/contact/</guid>
-      <description>The RangeShifter team consists of partners from University of Aberdeen and the University of Potsdam</description>
+      <description>&lt;p&gt;The RangeShifter team consists of partners from University of Aberdeen and the University of Potsdam&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -4,30 +4,23 @@
     <title>News on RangeShifter</title>
     <link>https://rangeshifter.github.io/blog/</link>
     <description>Recent content in News on RangeShifter</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://rangeshifter.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://rangeshifter.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RangeShiftR workshop at IBS 2022</title>
       <link>https://rangeshifter.github.io/blog/post-2/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://rangeshifter.github.io/blog/post-2/</guid>
-      <description>We&amp;rsquo;ve been picked to host a RangeShiftR workshop at the IBS 2022 in Vancouver!</description>
+      <description>&lt;p&gt;We&amp;rsquo;ve been picked to host a RangeShiftR workshop at the IBS 2022 in Vancouver! Obviously, the IBS biennial meeting was planned for 2021 but was postponed due to Covid-19 restrictions and concerns. But Vancouver is definetely worth the wait. In the meantime, we will host an IBS online workshop over the coming year. So stay tuned!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>First RangeShiftR workshop - Berlin 2019</title>
       <link>https://rangeshifter.github.io/blog/post-1/</link>
       <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://rangeshifter.github.io/blog/post-1/</guid>
-      <description>We are proud and exhausted after finishing our first RangeShiftR workshop in Berlin today.</description>
+      <description>&lt;p&gt;We are proud and exhausted after finishing our first RangeShiftR workshop in Berlin today. This was the first real-life test of our R package. We are very grateful to the participants to help us finding all the bugs and for giving useful suggestions for improvements. Four projects were developed over the last three days:&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

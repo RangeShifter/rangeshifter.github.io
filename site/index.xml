@@ -4,39 +4,30 @@
     <title>Sites on RangeShifter</title>
     <link>https://rangeshifter.github.io/site/</link>
     <description>Recent content in Sites on RangeShifter</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://rangeshifter.github.io/site/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://rangeshifter.github.io/site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RangeShifter: an eco-evolutionary modelling platform</title>
       <link>https://rangeshifter.github.io/site/about/</link>
       <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://rangeshifter.github.io/site/about/</guid>
-      <description>As anthropogenic environmental changes accelerate and threaten species’ persistence and associated ecosystem services, major tasks for scientists are to predict biological responses to different and interacting pressures, and to design effective management strategies.</description>
+      <description>&lt;p&gt;As anthropogenic environmental changes accelerate and threaten species’ persistence and associated ecosystem services, major tasks for scientists are to predict biological responses to different and interacting pressures, and to design effective management strategies. Process-based models that explicitly integrate the different processes underpinning the responses of complex biological systems are now increasingly called for and provide opportunities (and challenges) to rapidly move forward in this endeavour (Urban et al. 2016). The RangeShifter software (Bocedi et al. 2014a, 2021) is a state-of-the-art eco-evolutionary modelling platform that is becoming increasingly used worldwide for both theoretical and applied purposes.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Publications</title>
       <link>https://rangeshifter.github.io/site/references/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://rangeshifter.github.io/site/references/</guid>
-      <description>Here, we feature research papers and other scientific publications using the RangeShifter platform.</description>
+      <description>&lt;p&gt;Here, we feature research papers and other scientific publications using the RangeShifter platform.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The RangeShifter team</title>
       <link>https://rangeshifter.github.io/site/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://rangeshifter.github.io/site/contact/</guid>
-      <description>The RangeShifter team consists of partners from University of Aberdeen and the University of Potsdam</description>
+      <description>&lt;p&gt;The RangeShifter team consists of partners from University of Aberdeen and the University of Potsdam&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

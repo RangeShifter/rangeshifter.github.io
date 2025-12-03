@@ -4,38 +4,29 @@
     <title>Projects using RangeShifter on RangeShifter</title>
     <link>https://rangeshifter.github.io/projects/</link>
     <description>Recent content in Projects using RangeShifter on RangeShifter</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
-    
-	<atom:link href="https://rangeshifter.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://rangeshifter.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Parallel Range Shifts</title>
       <link>https://rangeshifter.github.io/projects/parallel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://rangeshifter.github.io/projects/parallel/</guid>
-      <description>Projects using RangeShifter: Evolution and plasticity of &amp;ldquo;arrive and survive&amp;rdquo; phenotypes driving parallel range shifts in the wild Many species are undergoing contemporary range shifts to higher latitudes and elevations, representing one of the most dramatic biotic responses to climate change.</description>
+      <description>&lt;h4 id=&#34;projects-using-rangeshifter&#34;&gt;Projects using RangeShifter:&lt;/h4&gt;&#xA;&lt;h3 id=&#34;evolution-and-plasticity-of-arrive-and-survive-phenotypes-driving-parallel-range-shifts-in-the-wild&#34;&gt;Evolution and plasticity of &amp;ldquo;arrive and survive&amp;rdquo; phenotypes driving parallel range shifts in the wild&lt;/h3&gt;&#xA;&lt;p&gt;Many species are undergoing contemporary range shifts to higher latitudes and elevations, representing one of the most dramatic biotic responses to climate change. We now know that range shifts involve not only ecological processes, but also rapid evolutionary change, reflecting: niche shifts and niche expansion, increases in dispersal, and altered patterns of neutral genetic variation. However, the mechanisms and relative importance of each of these evolutionary shifts are poorly understood, limiting our ability to predict range shifts and estimate their potential impact on high latitude or high elevation communities.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Project BIOPIC</title>
       <link>https://rangeshifter.github.io/projects/biopic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://rangeshifter.github.io/projects/biopic/</guid>
-      <description>Projects using RangeShifter: BIOPIC - Disentangling the effects of demography, dispersal and biotic interactions on population and community response to global change Understanding the interplay between different drivers of biodiversity change is vital for making robust predictions to novel environments.</description>
+      <description>&lt;h4 id=&#34;projects-using-rangeshifter&#34;&gt;Projects using RangeShifter:&lt;/h4&gt;&#xA;&lt;h3 id=&#34;biopic---disentangling-the-effects-of-demography-dispersal-and-biotic-interactions-on-population-and-community-response-to-global-change&#34;&gt;BIOPIC - Disentangling the effects of demography, dispersal and biotic interactions on population and community response to global change&lt;/h3&gt;&#xA;&lt;p&gt;Understanding the interplay between different drivers of biodiversity change is vital for making robust predictions to novel environments. In BIOPIC, we aim to disentangle the complex roles of demography, dispersal and biotic interactions in shaping species niches, and assess their effects on population and community response to global change. A large part of this is further developing workflows for fitting dynamic population models like RangeShifter to large numbers of species and increasing reliability of biodiversity predictions.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Project Centre for Ecological Genetics</title>
       <link>https://rangeshifter.github.io/projects/ecogen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://rangeshifter.github.io/projects/ecogen/</guid>
-      <description>Projects using RangeShifter: The missing link: unraveling the role of genetic variation of beneficial arthropods in agro-ecosystems Insects are vital components of most terrestrial ecosystems.</description>
+      <description>&lt;h4 id=&#34;projects-using-rangeshifter&#34;&gt;Projects using RangeShifter:&lt;/h4&gt;&#xA;&lt;h3 id=&#34;the-missing-link-unraveling-the-role-of-genetic-variation-of-beneficial-arthropods-in-agro-ecosystems&#34;&gt;The missing link: unraveling the role of genetic variation of beneficial arthropods in agro-ecosystems&lt;/h3&gt;&#xA;&lt;p&gt;Insects are vital components of most terrestrial ecosystems. We are currently experiencing large population declines in insects due to anthropogenic causes, such as intensified land use, habitat loss and fragmentation, but we know very little about the implications for genetic diversity. Loss of genetic diversity can amplify population extinction and reduce the diversity and crucial ecosystem services and functions that insects perform. This project investigates the population genetic consequences of the dramatic declines observed in insect diversity and abundance, and the link between population size, genetic diversity, and the ability of insects to perform their natural important ecological roles.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
