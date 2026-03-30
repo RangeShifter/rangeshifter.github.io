@@ -6,14 +6,21 @@
     <description>Recent content on RangeShifter</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://rangeshifter.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RangeShifter: an eco-evolutionary modelling platform</title>
       <link>https://rangeshifter.github.io/site/about/</link>
-      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://rangeshifter.github.io/site/about/</guid>
       <description>&lt;p&gt;As anthropogenic environmental changes accelerate and threaten species’ persistence and associated ecosystem services, major tasks for scientists are to predict biological responses to different and interacting pressures, and to design effective management strategies. Process-based models that explicitly integrate the different processes underpinning the responses of complex biological systems are now increasingly called for and provide opportunities (and challenges) to rapidly move forward in this endeavour (Urban et al. 2016). The RangeShifter software (Bocedi et al. 2014a, 2021) is a state-of-the-art eco-evolutionary modelling platform that is becoming increasingly used worldwide for both theoretical and applied purposes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RangeShifter v3.0 release</title>
+      <link>https://rangeshifter.github.io/blog/post-3/</link>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://rangeshifter.github.io/blog/post-3/</guid>
+      <description>&lt;p&gt;We are happy to announce a new major release for RangeShifter, version 3.0, which is available for the batch interface as well as the R package interface!&#xA;The new version includes:&lt;/p&gt;</description>
     </item>
     <item>
       <title>RangeShiftR workshop at IBS 2022</title>
@@ -59,17 +66,24 @@
     </item>
     <item>
       <title>RangeShifter 2.0</title>
-      <link>https://rangeshifter.github.io/software/rangeshifter2.0/</link>
+      <link>https://rangeshifter.github.io/software/rangeshifter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rangeshifter.github.io/software/rangeshifter2.0/</guid>
-      <description>&lt;p&gt;The RangeShifter platform was first published in Bocedi et al. (2014) and new functionality was added in Bocedi et al. (2021). The software is coded in C++ and packaged as a freely available &lt;a href=&#34;https://github.com/RangeShifter/RangeShifter-software-and-documentation&#34;&gt;Windows GUI&lt;/a&gt;. The graphical user interface is particularly useful for initial model exploration and for demonstration and teaching purposes. For more complex or computationally demanding simulations, it can also be run in Batch mode.&lt;/p&gt;</description>
+      <guid>https://rangeshifter.github.io/software/rangeshifter/</guid>
+      <description>&lt;p&gt;The RangeShifter platform was first published in Bocedi et al. (2014) and new functionality was added in Bocedi et al. (2021) and in the latest 3.0 release.&#xA;The software is coded in C++ and packaged as a freely available &lt;a href=&#34;https://github.com/RangeShifter/RangeShifter_batch&#34;&gt;batch interface&lt;/a&gt; and for the previous 2.0 version also as &lt;a href=&#34;https://github.com/RangeShifter/RangeShifter-GUI&#34;&gt;Windows GUI&lt;/a&gt;. The graphical user interface is particularly useful for initial model exploration and for demonstration and teaching purposes. However, it is currently not maintained and only available for the RangeShifter v2.0 release.&#xA;If you want to use the most recent release or run more complex or computationally demanding simulations, please use the batch interface.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RangeShifter GUI 2.0</title>
+      <link>https://rangeshifter.github.io/software/rangeshiftergui/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rangeshifter.github.io/software/rangeshiftergui/</guid>
+      <description>&lt;p&gt;The RangeShifter platform was first published in Bocedi et al. (2014) and new functionality was added in Bocedi et al. (2021).&#xA;The software is coded in C++ and packaged as a freely available as &lt;a href=&#34;https://github.com/RangeShifter/RangeShifter-GUI&#34;&gt;Windows GUI&lt;/a&gt;.&#xA;The graphical user interface is particularly useful for initial model exploration and for demonstration and teaching purposes.&#xA;However, it is currently not maintained and only available for the RangeShifter v2.0 release.&#xA;If you want to use the most recent release or run more complex or computationally demanding simulations, please use the &lt;a href=&#34;https://rangeshifter.github.io/software/rangeshifter/&#34;&gt;batch interface&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>RangeShiftR</title>
       <link>https://rangeshifter.github.io/software/rangeshiftr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://rangeshifter.github.io/software/rangeshiftr/</guid>
-      <description>&lt;p&gt;We here introduce the new RangeshiftR package, which makes RangeShifter 2.0 available from within R (Malchow et al. 2021). The R package makes it especially easy to run more complex simulations, it allows more coherent workflows and easier reproducability as well as integration with other R packages and plotting functions.&lt;/p&gt;</description>
+      <description>&lt;p&gt;We here introduce the RangeShiftR package 3.0, based on the first version developed by Malchow et al. (2021). The R package makes it especially easy to run more complex simulations, it allows more coherent workflows and easier reproducability as well as integration with other R packages and plotting functions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The RangeShifter team</title>

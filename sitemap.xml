@@ -3,16 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://rangeshifter.github.io/</loc>
-    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rangeshifter.github.io/site/about/</loc>
-    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rangeshifter.github.io/site/</loc>
-    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rangeshifter.github.io/blog/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rangeshifter.github.io/blog/post-3/</loc>
+    <lastmod>2026-03-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rangeshifter.github.io/blog/post-2/</loc>
     <lastmod>2020-06-05T00:00:00+00:00</lastmod>
@@ -34,7 +37,9 @@
   </url><url>
     <loc>https://rangeshifter.github.io/about/</loc>
   </url><url>
-    <loc>https://rangeshifter.github.io/software/rangeshifter2.0/</loc>
+    <loc>https://rangeshifter.github.io/software/rangeshifter/</loc>
+  </url><url>
+    <loc>https://rangeshifter.github.io/software/rangeshiftergui/</loc>
   </url><url>
     <loc>https://rangeshifter.github.io/software/rangeshiftr/</loc>
   </url><url>

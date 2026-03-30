@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-gb"><head>
   <meta charset="utf-8">
-  <title>Software</title>
+  <title>RangeShifter v3.0 release</title>
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="This is meta description.">
   
-  <meta name="generator" content="Hugo 0.68.3" />
+  <meta name="generator" content="Hugo 0.152.2">
 
   <style>
     :root{
@@ -31,12 +31,15 @@
   <!--Favicon-->
   <link rel="shortcut icon" href="https://rangeshifter.github.io/images/favicon.png " type="image/x-icon">
   <link rel="icon" href="https://rangeshifter.github.io/images/favicon.png " type="image/x-icon">
+  
+  <!-- jQuery -->
+  <script src="https://rangeshifter.github.io/plugins/jQuery/jquery.min.js"></script>
 
   
 
 </head><body><header class="navigation fixed-top">
   <nav class="navbar navbar-expand-lg navbar-dark">
-    <a class="navbar-brand" href="https://rangeshifter.github.io">
+    <a class="navbar-brand" href="https://rangeshifter.github.io/">
       
       <h3 class="text-white font-tertiary">RangeShifter</h3>
       
@@ -49,7 +52,7 @@
     <div class="collapse navbar-collapse text-center" id="navigation">
       <ul class="navbar-nav ml-auto">
         <li class="nav-item">
-          <a class="nav-link" href="https://rangeshifter.github.io"></a>
+          <a class="nav-link" href="https://rangeshifter.github.io/"></a>
         </li>
         
         
@@ -57,7 +60,7 @@
         
         
         <li class="nav-item ">
-          <a class="nav-link" href="https://rangeshifter.github.io">Home</a>
+          <a class="nav-link" href="https://rangeshifter.github.io/">Home</a>
         </li>
         
         
@@ -81,7 +84,7 @@
         
         
         <li class="nav-item ">
-          <a class="nav-link" href="https://rangeshifter.github.io/portfolio/rangeshifter2.0">RangeShifter 2.0</a>
+          <a class="nav-link" href="https://rangeshifter.github.io/software">Software</a>
         </li>
         
         
@@ -89,7 +92,7 @@
         
         
         <li class="nav-item ">
-          <a class="nav-link" href="https://rangeshifter.github.io/portfolio/rangeshiftr">R package</a>
+          <a class="nav-link" href="https://rangeshifter.github.io/projects">Projects</a>
         </li>
         
         
@@ -114,12 +117,12 @@
   </nav>
 </header>
 
-
+  
 <section class="page-title bg-primary position-relative overflow-hidden">
   <div class="container">
     <div class="row">
       <div class="col-12 text-center">
-        <h2 class="text-white font-tertiary">Software</h2>
+        <h2 class="text-white font-tertiary">RangeShifter v3.0 release</h2>
       </div>
     </div>
   </div>
@@ -128,68 +131,63 @@
 
 
 
-
-<section class="section">
-  <div class="container">
-    <div class="row mb-5">
-      <div class="col-12">
-        <div class="btn-group btn-group-toggle justify-content-center d-flex flex-wrap" data-toggle="buttons">
-          <label class="btn btn-sm btn-primary active">
-            <input type="radio" name="shuffle-filter" value="all" checked="checked" />All
-          </label>
-					
-					
-					
-					
-					
-					
-					
+  <section class="section">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-lg-9 text-center mb-4">
+          <img src="https://rangeshifter.github.io/images/blog/RS_logo.png" alt="" class="img-fluid rounded mb-4">
+          
+            
+            <p class="font-secondary">Published on Mar 27, 2026 </p>
+            
+            
         </div>
-      </div>
-    </div>
-    <div class="row shuffle-wrapper">
-      
-      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[]">
-        <div class="position-relative rounded hover-wrapper">
-          <img src="https://rangeshifter.github.io/images/portfolio/RS_GUI.png" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
-          <div class="hover-overlay">
-            <div class="hover-content">
-              <a class="btn btn-light btn-sm" href="https://rangeshifter.github.io/portfolio/rangeshifter2.0/">view project</a>
-            </div>
+        <div class="col-lg-9">
+          <div class="content">
+            <p>We are happy to announce a new major release for RangeShifter, version 3.0, which is available for the batch interface as well as the R package interface!
+The new version includes:</p>
+<ul>
+<li>
+<p>an extensive rework of the genetics module, allowing for a much greater degree of flexibility in simulating evolutionary dynamics and embedded support for tracking the evolution of genetic diversity.</p>
+</li>
+<li>
+<p>spatiotemporally varying demographic rates, allowing fecundity, survival and development to vary across space and time, e.g. in response to environmental conditions or management.</p>
+</li>
+<li>
+<p>a management feature to translocate individuals within a simulation run.</p>
+</li>
+<li>
+<p>an option for the batch interface to speed up runtime by running reproduction and dispersal of individuals in parallel.</p>
+</li>
+<li>
+<p>an option to return the population-level output as R object for the R package interface.</p>
+</li>
+<li>
+<p>a function within the R package to generate a .docx document including parameter tables of all modules used for a specific parameter master.</p>
+</li>
+</ul>
+<p>Please check out the release notes for more details:</p>
+<ul>
+<li>
+<p><a href="https://github.com/RangeShifter/RangeShifter_batch/releases/tag/v3.0.0">RangeShifter_batch v3.0 release notes</a></p>
+</li>
+<li>
+<p><a href="https://github.com/RangeShifter/RangeShiftR-pkg/releases/tag/v3.0.0">RangeShiftR-pkg v3.0 release notes</a></p>
+</li>
+</ul>
+
           </div>
         </div>
       </div>
-      
-      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[]">
-        <div class="position-relative rounded hover-wrapper">
-          <img src="https://rangeshifter.github.io/images/portfolio/Rpackage.png" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
-          <div class="hover-overlay">
-            <div class="hover-content">
-              <a class="btn btn-light btn-sm" href="https://rangeshifter.github.io/portfolio/rangeshiftr/">view project</a>
-            </div>
-          </div>
-        </div>
-      </div>
-      
     </div>
-  </div>
-</section>
-
-
-<section class="section bg-light">
-  <div class="container">
-    <div class="client-logo-slider d-flex align-items-center">
-  
-</div>
-  </div>
-</section>
+  </section>
 
 
 
 
 <footer class="bg-dark footer-section">
   <div class="border-top text-center border-dark py-5">
-    <p class="mb-0 text-light">Copyright © The RangeShifter Platform 2020. Powered by <a href="https://gethugothemes.com">gethugothemes</a></p>
+    <p class="mb-0 text-light">Copyright © The RangeShifter Platform 2021. Powered by <a href="https://gethugothemes.com">gethugothemes</a></p>
   </div>
 </footer>
 
